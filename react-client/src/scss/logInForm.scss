@@ -1,6 +1,7 @@
 #logInForm {
   width: 250px;
-  margin: 15% auto;
+  margin-top: 15%;
+  margin-left: calc(50% - 125px);
   border: 1px solid grey;
   text-align: center;
   & > button {
